@@ -57,6 +57,7 @@ Any track segments not comprised of horizontal tiles are altered such that they 
 ## Extra Island
 If you think about it, each curse has a trigger and an effect.
 For example, ◆1-X has a trigger of "reflex-angled tile" and an effect of "add a 2-beat pause".
+(Note that triggers and effects are up to interpretation)
 The curses in this section change the trigger/effect of other curses.
 
 Note: these levels are not in the repository yet.
