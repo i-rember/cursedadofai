@@ -31,7 +31,7 @@ Any tiles that have the same angle as the previous tile are removed.
 ### ◆9-X - Classic Pursuit but it's double time
 Speed is doubled, and all tiles have another tile with the same angle appended after it.
 
-### ◆10-X> - Butterfly Planet but it's a bit off
+### ◆10-X - Butterfly Planet but it's a bit off
 Any non-onbeat sections have their angles altered greatly.
 
 ### ◆11-X - Heracles but inferior angles have outside midspins
