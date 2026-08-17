@@ -60,9 +60,10 @@ For example, ◆1-X has a trigger of "reflex-angled tile" and an effect of "add 
 (Note that triggers and effects are up to interpretation)
 The curses in this section change the trigger/effect of other curses.
 
-Note: these levels are not in the repository yet.
+Note: unless stated otherwise, these levels are not in the repository yet.
 
 ### ◆XF-X - Third Wave Flip Flop but the attached curse's effect is applied on every tile
+In repository.
 ### ◆XC-X - Credits but the attached curse can't change any gameplay icons
 The attached curse may do this by either altering the chart or removing any wrong icons after its effect.
 ### ◆XH-X - Final Hope but...
