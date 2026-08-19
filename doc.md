@@ -21,6 +21,7 @@ Every section of straight tiles has an extra straight tile appended to it.
 
 ### ◆6-X - PULSE but it was designed strangely
 The chart is moved one tile backwards, and speed changes are added to undo this effect.
+- Inverse: the chart is moved the other way.
 
 ### ◆7-X - Spin 2 Win but there are no icons
 All holds, twirls, and speed changes are removed (unless they were already hidden.)
